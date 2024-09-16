@@ -4,7 +4,7 @@ This [article](https://programmingisterrible.com/post/139222674273/write-code-th
 Such complications eventually become even more difficult to maintain as the project matures, indicating the importance of adaptability -- allowing parts of the system to be deleted or replaced without significant effort. However, that does not mean that developers should necessarily put in minimal effort for the greatest possible output, but moreso that they should embrace their mistakes to learn and improve their codebases over time. It highlights the critical importance of flexibility and the willingness to adapt to rapidly changing nature of the tech ecosystem.
 
 # Comments
-* '[comment] - Name'
+* Andrew Bao - This article touches on something I have had thoughts about recently especially its arguments against building libraries as they make it harder to make drastic changes. I remember in some previous classes, we were taught how making dedicated functions to frequently used pieces of code is good practice. This probably applies decently with I can see how it can be an issue once you deal with libraries and work with other people. These frequently used functions will probably be in libraries and if you want to modify these, you have to see how it will affect other areas using the same function and consult other people using the library. This article definetely does not seem to be against making libraries, it seems to be ultimately telling people that writing good modular code should be the first step instead of shoving it all in libraries.
 .
 .
 .
